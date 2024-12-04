@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69686053-7124-464E-992A-9422A0622025}|okulotomasyon\\okulotomasyon.csproj|C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\frmveliler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69686053-7124-464E-992A-9422A0622025}|okulotomasyon\\okulotomasyon.csproj|solutionrelative:okulotomasyon\\frmveliler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69686053-7124-464E-992A-9422A0622025}|okulotomasyon\\okulotomasyon.csproj|C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\frmogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69686053-7124-464E-992A-9422A0622025}|okulotomasyon\\okulotomasyon.csproj|solutionrelative:okulotomasyon\\frmogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69686053-7124-464E-992A-9422A0622025}|okulotomasyon\\okulotomasyon.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\okul otomasyon\\okul otomasyon\\okulotomasyon\\okulotomasyon\\frmanamodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69686053-7124-464E-992A-9422A0622025}|okulotomasyon\\okulotomasyon.csproj|solutionrelative:okulotomasyon\\frmanamodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69686053-7124-464E-992A-9422A0622025}|okulotomasyon\\okulotomasyon.csproj|C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\frmogretmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69686053-7124-464E-992A-9422A0622025}|okulotomasyon\\okulotomasyon.csproj|solutionrelative:okulotomasyon\\frmogretmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAnaModul.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\frmAnaModul.cs",
+              "RelativeDocumentMoniker": "okulotomasyon\\frmAnaModul.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\frmAnaModul.cs [Tasar\u0131m]",
+              "RelativeToolTip": "okulotomasyon\\frmAnaModul.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:37:24.559Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOgrenciler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\FrmOgrenciler.cs",
+              "RelativeDocumentMoniker": "okulotomasyon\\FrmOgrenciler.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\FrmOgrenciler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "okulotomasyon\\FrmOgrenciler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:03:01.167Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmVeliler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\FrmVeliler.cs",
+              "RelativeDocumentMoniker": "okulotomasyon\\FrmVeliler.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\FrmVeliler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "okulotomasyon\\FrmVeliler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:35:57.984Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmOgretmenler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\FrmOgretmenler.cs",
+              "RelativeDocumentMoniker": "okulotomasyon\\FrmOgretmenler.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\Okul Otomasyon\\Okul Otomasyon\\okulotomasyon\\okulotomasyon\\FrmOgretmenler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "okulotomasyon\\FrmOgretmenler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:35:29.008Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
